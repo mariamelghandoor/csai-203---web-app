@@ -1,0 +1,42 @@
+.container {
+    background-color: rgb(242, 191, 114);
+    padding: 50px 30px;
+    border-radius: 8px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+body{
+    background-color: rgb(227, 225, 209);
+}
+
+.submit-button {
+    background-color: rgb(223, 112, 56);
+    padding:  7px 12px;
+    border-radius: 5px;
+    margin-top: 17px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border:none;
+    color: white;
+}
+.submit-button:hover{
+    background-color: white;
+    color:  rgb(223, 112, 56);
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+    
+}
+
+input:hover{
+    font-size: 16px;
+}
+
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
